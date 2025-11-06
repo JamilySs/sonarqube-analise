@@ -1,0 +1,6 @@
+projectKey=crud-api-users-JamilyS
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=crud-api-users-JamilyS
+ceTaskId=3296f28e-b925-44e5-9dd5-11494714a1e2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=3296f28e-b925-44e5-9dd5-11494714a1e2
